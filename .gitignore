@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+samconfig.toml
+.aws-sam
+.DS_Store
